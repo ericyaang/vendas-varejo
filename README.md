@@ -19,7 +19,7 @@ Nossa análise explora diversas facetas dos dados de vendas para extrair insight
   **Descrição:** Esta consulta analisa as métricas de vendas e fretes para cada ProdutoID.
 
 ### 2. Valor de Venda por Tipo de Produto
-- **Arquivo:** [query_02_total_vendas_tipo.sql](./analysis/query_02_total_vendas_tipo.sql)  
+- **Arquivo:** [query_02_total_vendas_categoria.sql](./analysis/query_02_total_vendas_categoria.sql)  
   **Descrição:** Calcula o valor total de vendas para cada categoria de produtos.
 
 ### 3. Quantidade e Valor das Vendas por Período
