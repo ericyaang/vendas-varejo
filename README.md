@@ -1,4 +1,4 @@
-# Desafio 1 - Consulta em SQL
+# Vendas Varejo - SQL Queries
 
 ## Visão Geral
 Este projeto de análise de dados de vendas foi realizado utilizando o DuckDB como banco de dados SQL OLAP, com as consultas sendo desenvolvidas e executadas no [Jupyter Colab](https://colab.research.google.com/drive/1pmCI7kiTupGASUEOy-hh11rl3lJQqh-A#scrollTo=WhBFngCvuLZ9).
